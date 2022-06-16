@@ -1,5 +1,4 @@
 // Package keyboard implements functions to retrieve input from the keyboard
-
 package keyboard
 
 import (
